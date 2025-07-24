@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "shishiodoshi-wo-minecraft-ni-tsuikasuru",
+        "description": "錆止めされた銅のトラップドアをししおどしに置き換えます",
         "pack_format": 55,
         "supported_formats": {"min_inclusive": 55, "max_inclusive": 99}
     }
